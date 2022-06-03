@@ -1,1 +1,10 @@
-{}
+{
+  "jquery": {
+    "from": ["dist", "jquery.min.js"],
+    "to": ["js", "res", "jquery.min.js"]
+  },
+  "axios": {
+    "from": ["dist", "axios.min.js"],
+    "to": ["js", "res", "axios.min.js"]
+  }
+}
